@@ -1,3 +1,5 @@
 Jorge Acero
 
 Hi! I'm Julian, I'm 22 years old and I code for a living, focused in web development.
+
+Today I'm a React & GraphQL lover
